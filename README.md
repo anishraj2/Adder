@@ -66,8 +66,10 @@ endmodule
 
 
 ## RTL Schematic:
-![RTL Schematic](1.png)<br>
-![RTL Schematic](2.png)<br>
+### 1.Half Adder
+![1.Half Adder](1.png)
+### 2.Full Adder
+![2.Full Adder](2.png)
 ## Timing Diagram:
 ![Timing Diagram](3.png)<br>
 ![Timing Diagram](4.png)
